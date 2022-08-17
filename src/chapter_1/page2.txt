@@ -1,2 +1,1 @@
 Page 2 of my book.
-Hello world.
